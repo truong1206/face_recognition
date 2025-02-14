@@ -14,3 +14,5 @@ Dự án ứng dụng nhận diện khuôn mặt
 - Chạy chương trình: python manage.py runserver
 
 3. Demo
+![My Image](demo1.jpg)
+![My Image](demo2.jpg)
